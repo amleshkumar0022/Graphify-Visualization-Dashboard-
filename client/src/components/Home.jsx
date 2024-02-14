@@ -4,7 +4,7 @@ const Home = () => {
   return (
 
     <div style={homeContainer}>
-      <h1 style={headingStyle}>Welcome to Blackcoffer</h1>
+      <h1 style={headingStyle}>Welcome to Graphify-Visualization-Dashboard</h1>
     </div>
   );
 }
